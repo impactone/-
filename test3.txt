@@ -25,4 +25,4 @@ tanα1 =( Ax/g) / [squr(gg - AxAx) / g] = Ax / squr(gg - AxAx) = Ax / squr(AyAy 
 
 θy =β1180/π = [arctan(Ay / squr(AxAx+AzAz))]180/π 
 
-θz =γ1180/π = [arctan( Az / squr(AxAx +Ay*Ay))]*180/π)
+θz =γ1180/π = [arctan( Az / squr(AxAx +Ay*Ay))]*180/π
